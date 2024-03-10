@@ -46,6 +46,9 @@ To run the tests for the application, use the following command:
   npm test
 ```
 
+## To Do
+- "Meus favoritos" page using favoriteRepos context
+
 ## Technology Stack
 - React
 - TypeScript
